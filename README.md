@@ -5,3 +5,13 @@ Task Management Platform is a full-stack web application developed using Spring 
 The project includes features such as task creation and completion tracking, priority and category management, due dates, search and filtering, and formatted date/time display. The frontend follows a scalable feature-based folder structure, while the backend uses a layered architecture with controller, service, repository, and entity layers.
 
 This project was built to showcase full-stack development skills, clean project structure, API integration, and practical CRUD application design.
+
+
+## Features
+- Create, update, and delete tasks
+- Mark tasks as completed
+- Search and filter tasks
+- Priority, category, and due-date management
+- Responsive UI with Tailwind CSS
+- REST API integration with Spring Boot
+- MySQL database persistence
